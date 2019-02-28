@@ -1,2 +1,1 @@
 # zadania
-Podstawy C#
